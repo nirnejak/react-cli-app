@@ -1,0 +1,23 @@
+{
+  "name": "react-cli-app",
+  "version": "1.0.0",
+  "description": "A CLI tool built using React(Ink)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirnejak/react-cli-app.git"
+  },
+  "keywords": [
+    "React",
+    "CLI"
+  ],
+  "author": "Jitendra Nirnejak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nirnejak/react-cli-app/issues"
+  },
+  "homepage": "https://github.com/nirnejak/react-cli-app#readme"
+}
